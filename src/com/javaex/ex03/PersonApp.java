@@ -14,12 +14,6 @@ public class PersonApp {
 		pArray[1] = p02;
 		pArray[2] = p03;
 		
-		/*
-		p01.toString();
-		p02.toString();
-		p03.toString();
-		*/
-		
 		for(int i=0; i<pArray.length; i++) {
 			pArray[i].showInfo();
 		}
